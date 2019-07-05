@@ -1,0 +1,16 @@
+.page-header {
+  background-image: url("img/site-header.jpg");
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+  .title {
+    font-size: 36px;
+  }
+
+  .title-description {
+    font-size: 18px;
+  }
+
+}

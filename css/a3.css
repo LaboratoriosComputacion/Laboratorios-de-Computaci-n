@@ -1,0 +1,32 @@
+.page-header {
+  background-image: url('../img/aulas/aulas3-thumbnail.jpg');
+}
+
+.tab-content h4 {
+  font-weight: bold;
+}
+
+.tab-content iframe {
+  border-width: 0px;
+  height: 65vh;
+  width: 100%;
+}
+
+.scroll-area {
+  height: 210px; /* Fit 8 list elements without scrolling */
+  overflow: scroll;
+}
+
+.scroll {
+  font-size: 14px;
+  padding-left: 0.5em;
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+  .title {
+    font-size: 36px;
+  }
+
+}
